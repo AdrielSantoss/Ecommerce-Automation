@@ -1,9 +1,9 @@
 
-# Ecommerce-Automation
+# 🚀 Ecommerce-Automation
 
 Scripts PowerShell para automação de processos de pedidos e faturas em e-commerce, incluindo integração com DuckDB para exportação e análise de dados. Ferramentas para consulta, envio e manipulação de pedidos e faturas, facilitando operações administrativas e integração com sistemas externos.
 
-## Funcionalidades
+## ✨ Funcionalidades
 
 - Consulta e exportação de pedidos e faturas
 - Envio de pedidos via API
@@ -11,13 +11,13 @@ Scripts PowerShell para automação de processos de pedidos e faturas em e-comme
 - Importação dos dados para DuckDB para análise
 - Scripts parametrizáveis e fáceis de usar
 
-## Requisitos
+## 🛠️ Requisitos
 
 - Windows PowerShell 5.1 ou superior
 - DuckDB CLI (`duckdb.exe`) na pasta do projeto
 - Permissões para executar scripts PowerShell
 
-## Instalação
+## 📦 Instalação
 
 1. Clone o repositório:
    ```
@@ -26,7 +26,7 @@ Scripts PowerShell para automação de processos de pedidos e faturas em e-comme
 2. Baixe o executável do DuckDB em https://duckdb.org/ e coloque o arquivo `duckdb.exe` na pasta do projeto.
 3. Ajuste os parâmetros dos scripts conforme sua necessidade.
 
-## Exemplos de Uso
+## 💡 Exemplos de Uso
 
 ### Buscar pedidos
 
@@ -48,7 +48,7 @@ Scripts PowerShell para automação de processos de pedidos e faturas em e-comme
 
 Os resultados serão salvos nas pastas `resultado-pedidos` e `resultado-faturas`.
 
-## Exemplos de saída
+## 📁 Exemplos de saída
 
 - `resultado-pedidos/resultado-pedidos.json`
 - `resultado-pedidos/resultado-pedidos.csv`
