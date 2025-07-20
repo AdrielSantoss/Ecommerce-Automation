@@ -1,0 +1,110 @@
+{
+  "idPedidoOtica": "testedwadriel5",
+  "idPedidoOpticlick": "123456",
+  "observacao": "#VOUCHERPACTOESSILOR# Código Voucher Pacto: DA930480-5947-4BD0-8059-121B1125724B - Descrição Pilar: Varilux e Kodak Digital.",
+  "servicos": [
+    {
+      "codigo": "479531",
+      "descricao": "ANTIRREFLEXO CRIZAL PREVENCIA (DS)",
+      "codigoRef": "37",
+      "tipo": "ANTIRREFLEXO"
+    }
+  ],
+  "receita": {
+    "olhoDireito": {
+      "grauEsferico": "+1.75",
+      "grauCilindro": "0.00",
+      "eixo": "",
+      "adicao": "+1.50",
+      "dnp": "30",
+      "altura": "22",
+      "codigoLinhaProduto": "2243",
+      "rpl": "3H2A1000020008A",
+      "tipoProducao": "SURFACAGEM_DIGITAL",
+      "tipoProduto": "MULTIFOCAL",
+      "base": "",
+      "ct": "",
+      "et": ""
+    },
+    "olhoEsquerdo": {
+      "grauEsferico": "+1.75",
+      "grauCilindro": "0.00",
+      "eixo": "",
+      "adicao": "+1.50",
+      "dnp": "30",
+      "altura": "22",
+      "codigoLinhaProduto": "2243",
+      "rpl": "3H2A1000020008A",
+      "tipoProducao": "SURFACAGEM_DIGITAL",
+      "tipoProduto": "MULTIFOCAL",
+      "base": "",
+      "ct": "",
+      "et": ""
+    }
+  },
+  "armacao": {
+    "vertical": "31",
+    "horizontal": "51",
+    "ponte": "15",
+    "diametroMaior": "55",
+    "tipo": "1",
+    "modelo": "3",
+    "cor": "",
+    "referencia": "",
+    "leitura": "",
+    "usada": true
+  },
+  "parametros": {
+    "olhoDireito": {
+      "dnpPerto": "33",
+      "distanciaVertice": "",
+      "cro": "",
+      "anguloPantoscopico": "",
+      "anguloCurvatura": "",
+      "distanciaLeitura": "",
+      "coeficienteHE": "",
+      "coeficienteST": "",
+      "distanciaProgressao": "",
+      "cvp": "",
+      "vmap": ""
+    },
+    "olhoEsquerdo": {
+      "dnpPerto": "33",
+      "distanciaVertice": "",
+      "cro": "",
+      "anguloPantoscopico": "",
+      "anguloCurvatura": "",
+      "distanciaLeitura": "",
+      "coeficienteHE": "",
+      "coeficienteST": "",
+      "distanciaProgressao": "",
+      "cvp": "",
+      "vmap": ""
+    }
+  },
+  "paciente": {
+    "nome": "JOKER VED",
+    "cpf": "000.000.000-01",
+    "iniciaisPaciente": ""
+  },
+  "medico": {
+    "nome": "",
+    "crm": ""
+  },
+  "vendedor": {
+    "nome": "Ceditop",
+    "cpf": "61872662005"
+  },
+  "cortesia": {
+    "voucher": "1056469",
+    "codigoVoucher": "DA930480-5947-4BD0-8059-121B1125724B"
+  },
+  "promocao": {
+    "voucher": "2136R8H3BJ",
+    "campanhaNome": "Teste varilux",
+    "idPar": "1"
+  },
+  "solution": {
+    "voucher": "DA930480-5947-4BD0-8059-121B1125724B"
+  }
+}
